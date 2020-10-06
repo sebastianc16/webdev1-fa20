@@ -2,12 +2,12 @@ h1{
     color: red
 }
 .container {
-    border: 3px solid magenta;
+    width: 80vw;
+    height: 60vh;
+    margin: 0 auto;
+    border: 2px solid green;
     border-radius: 15px;
-    height: 100px;
-    
     display: flex;
-    flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
   }
