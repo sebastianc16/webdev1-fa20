@@ -5,9 +5,16 @@ h1{
     border: 3px solid magenta
     border-radius: 15px;
     height: 400px;
-    
+
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 2px;
 }
