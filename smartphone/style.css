@@ -12,10 +12,17 @@ h1{
     align-items: center;
   }
   
-  .box {
+  .left-section {
     width: 100px;
     height: 100px;
     background: blue;
     margin: 2px;
-    border-radius: 10px
+    border-radius: 10px;
+  }
+  .middle-section {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 2px;
+    border-radius: 10px;
   }
