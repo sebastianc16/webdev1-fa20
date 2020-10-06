@@ -2,7 +2,6 @@ h1{
     color: red
 }
 .container {
-    border: 3px solid magenta;
   border-radius: 15px;
   height: 600px;
   
@@ -15,21 +14,18 @@ h1{
   .left-section {
     width: 100px;
     height: 100px;
-    background: blue;
     margin: 4px;
     border-radius: 10px;
   }
   .middle-section {
     width: 100px;
     height: 100px;
-    background: blue;
     margin: 4px;
     border-radius: 10px;
   }
   .right-section{
     width: 100px;
     height: 100px;
-    background: blue;
     margin: 4px;
     border-radius: 10px;
   }
