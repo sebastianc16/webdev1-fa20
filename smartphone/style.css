@@ -26,3 +26,10 @@ h1{
     margin: 4px;
     border-radius: 10px;
   }
+  .right-section{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    margin: 4px;
+    border-radius: 10px;
+  }
