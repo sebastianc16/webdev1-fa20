@@ -2,7 +2,6 @@ h1{
     color: blue;
 }
 .wrapper {
-    color: darkblue;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,21 +9,20 @@ h1{
 .phone {
     display: flex;
     flex-direction: column;
-    color: brown;
-    background-color: darkgreen;
 }
 .row {
-    width: 100px;
-    height: 100px;
-    color: coral;
-    background-color: blue;
     display: flex;
     flex-direction: row;
+}
+.box {
+    margin: 6px;
+    border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: darkgreen;
 }
-.box{
 
-}
+
+  
 
