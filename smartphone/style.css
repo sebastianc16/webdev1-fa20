@@ -16,7 +16,6 @@ h1{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-
 }
 .row {
     display: flex;
@@ -32,7 +31,19 @@ h1{
     margin: 2px;
     border-radius: 10px;
 }
-
-
+.box1 {
+    width: 100px;
+    height: 100px;
+    background:yellow;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: pink;
+    margin: 2px;
+    border-radius: 10px;
+}
   
 
