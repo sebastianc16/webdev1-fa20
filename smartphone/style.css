@@ -32,17 +32,66 @@ h1{
     margin: 2px;
     border-radius: 10px;
 }
-.box1 {
+.boxa {
+    width: 100px;
+    height: 100px;
+    background:navy;
+    margin: 2px;
+    border-radius: 10px;
+}
+.boxb {
+    width: 100px;
+    height: 100px;
+    background:pink;
+    margin: 2px;
+    border-radius: 10px;
+}
+.boxc {
+    width: 100px;
+    height: 100px;
+    background:yellow;
+    margin: 2px;
+    border-radius: 10px;
+}
+.boxd {
+    width: 100px;
+    height: 100px;
+    background:yellowgreen;
+    margin: 2px;
+    border-radius: 10px;
+}
+.boxe {
     width: 100px;
     height: 100px;
     background:orange;
     margin: 2px;
     border-radius: 10px;
 }
+.boxf {
+    width: 100px;
+    height: 100px;
+    background:black;
+    margin: 2px;
+    border-radius: 10px;
+}
+.boxg {
+    width: 100px;
+    height: 100px;
+    background:brown;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box1 {
+    width: 100px;
+    height: 100px;
+    background: blanchedalmond;
+    margin: 2px;
+    border-radius: 10px;
+}
 .box2 {
     width: 100px;
     height: 100px;
-    background: pink;
+    background: #ff6a00;
     margin: 2px;
     border-radius: 10px;
 }
@@ -56,7 +105,63 @@ h1{
 .box4 {
     width: 100px;
     height: 100px;
-    background:red;
+    background: fuchsia;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box5 {
+    width: 100px;
+    height: 100px;
+    background: cornflowerblue;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box6 {
+    width: 100px;
+    height: 100px;
+    background: gold;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box7 {
+    width: 100px;
+    height: 100px;
+    background: whitesmoke;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box8 {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box9 {
+    width: 100px;
+    height: 100px;
+    background: #00fbff;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box10 {
+    width: 100px;
+    height: 100px;
+    background: wheat;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box11{
+    width: 100px;
+    height: 100px;
+    background: #9dff00;
+    margin: 2px;
+    border-radius: 10px;
+}
+.box12{
+    width: 100px;
+    height: 100px;
+    background: #00ffa2;
     margin: 2px;
     border-radius: 10px;
 }
