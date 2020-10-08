@@ -10,7 +10,7 @@ h1{
     border-radius: 15px;
     height: 700px;
     width: 500px;
-    box-shadow: 10px 10px 8px #3e7988;
+    box-shadow: 10px 10px 8px blueviolet;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -151,14 +151,14 @@ h1{
     margin: 2px;
     border-radius: 10px;
 }
-.box11{
+.box11 {
     width: 100px;
     height: 100px;
     background: #9dff00;
     margin: 2px;
     border-radius: 10px;
 }
-.box12{
+.box12 {
     width: 100px;
     height: 100px;
     background: #00ffa2;
