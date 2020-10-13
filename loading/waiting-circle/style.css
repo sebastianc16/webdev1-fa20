@@ -1,11 +1,9 @@
-h1{
-    color: gray;
-}
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-color: pink;
 }
 .loading { 
    max-width: 50%;
@@ -17,16 +15,16 @@ body {
 .loading-circle { 
   font-weight: normal;
   font-size: 0.9rem;
-  color: rgba(189,189,189 ,1);
+  color: yellow;
   margin: 0.6rem 0 2rem 0;
   display: block;
 }
 .loading-anim {
-    width: 35px;
-    height: 35px;
+    width: 90px;
+    height: 90px;
     border:  5px solid rgba(189,189,189 ,0.25);
-    border-left-color: rgba(3,155,229 ,1);
-    border-top-color: rgba(3,155,229 ,1);
+    border-left-color: red;
+    border-top-color: red;
     border-radius: 50%;
     display: inline-block;
     animation: rotate 600ms infinite linear;
