@@ -1,7 +1,12 @@
+h1{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
 body {
     margin: 0;
     padding: 0;
-    background: #333;
+    background:pink;
 }
 .middle {
     position: absolute;
@@ -10,20 +15,42 @@ body {
     transform: translate(-50%, -50%);
 }
 .bar {
-    width: 10px;
-    height: 80px;
+    width: 15px;
+    height: 150px;
     background: white;
     display: inline-block;
     transform-origin: bottom center;
     animation: loading 1.5s ease-in-out infinite;
 }
-.bar{
+.bar1 {
     animation-delay: 0.1s;
 }
-
+.bar2 {
+    animation-delay: 0.2s;
+}
+.bar3 {
+    animation-delay: 0.3s;
+}
+.bar4 {
+    animation-delay: 0.4s;
+}
+.bar5 {
+    animation-delay: 0.5s;
+}
+.bar6 {
+    animation-delay: 0.6s;
+}
 @keyframes loading {
     0%{
         transform: scaleY(0.1);
         background: #fff;
+    }
+    50%{
+        transform: scaleY(1);
+        background: plum;
+    }
+    100%{
+        transform: scaleY(0,1);
+        background: red;
     }
 }
