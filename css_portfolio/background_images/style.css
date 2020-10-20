@@ -1,3 +1,10 @@
 h1{
-    color: red;
+    color: black;
+    text-align: left;
+}
+body {
+    background-image: url("https://sneakernews.com/wp-content/uploads/2018/07/parra-nike-air-max-1-where-to-buy-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
