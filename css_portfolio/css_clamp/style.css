@@ -1,0 +1,7 @@
+h1{
+    color: white;
+}
+body{
+    font-size: clamp(2rem, 10vw, 3rem); 
+    background-color: red;
+}

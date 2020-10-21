@@ -1,0 +1,14 @@
+h1 {
+    font-size: 13vmin;
+    font-family: Avenir, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: yellowgreen;
+  }
+h2 {
+    min-height: 8vmax;
+    color: whitesmoke;
+}
+body{
+  background-color: tomato;
+}
