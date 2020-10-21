@@ -1,0 +1,10 @@
+h1 {
+    color: seagreen;
+}
+p::first-line {
+    color: green;
+    font-variant: normal;
+  }
+body {
+background-color: orangered;
+}
