@@ -1,5 +1,8 @@
 h1{
-    background-color: pink;
+    color: pink;
+}
+body{
+    background-color: grey;
 }
 div {
     width: 200px;
