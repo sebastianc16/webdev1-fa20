@@ -1,0 +1,6 @@
+a {
+    font-size: 3rem;
+}
+a:hover {
+    color: green;
+}
