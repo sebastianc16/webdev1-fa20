@@ -1,0 +1,22 @@
+.hero {
+   background:blanchedalmond;
+   height: 30vh;
+   color: black;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+   align-items: center;
+}
+img {
+   max-width: 150px;
+}
+.hero_title {
+   font-size: 8vmin;
+   font-weight: 600;
+}
+.content{
+   text-align: center;
+   min-height: 50vh;
+   background:green;
+
+}
