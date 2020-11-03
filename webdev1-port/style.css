@@ -18,5 +18,7 @@ img {
    text-align: center;
    min-height: 50vh;
    background:green;
-
+}
+body{
+   background-color: black;
 }
