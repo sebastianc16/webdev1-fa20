@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    background: lightblue;
+}
+
+p{
+    background: hotpink;
+}
+h2{
+    color: blue;
+    background: red;
+}
+h3{
+    color: green;
+    background: black
+}
+h4{
+    color: orange;
+    background: black;
+}
+img{
+    display: block;
+    background: lightslategray;
+    width: 25%;
+    margin: 20px;
+}
