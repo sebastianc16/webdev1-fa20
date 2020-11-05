@@ -15,11 +15,11 @@ img {
    font-size: 8vmin;
    font-weight: 600;
 }
-.content{
+.content {
    text-align: center;
    min-height: 50vh;
    background:green;
 }
-body{
+body {
    background-color:lightblue;
 }
