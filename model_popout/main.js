@@ -1,7 +1,12 @@
-$(".open").on("click", function() {
-$(".popup-overlay, .popup-content").addClass("active");
-});
-
-$(".close, .popup-overlay").on("click", function() {
-$(".popup-overlay, .popup-content").removeClass("active");
-});
+<script type="text/javascript">
+    $(function () {
+        $("#btnShowPopup").click(function () {
+            var title = "Greetings";
+            var body = "Welcome to ASPSnippets.com";
+ 
+            $("#MyPopup .modal-title").html(title);
+            $("#MyPopup .modal-body").html(body);
+            $("#MyPopup").modal("show");
+        });
+    });
+</script>
