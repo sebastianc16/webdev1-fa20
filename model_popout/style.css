@@ -1,16 +1,12 @@
 body {
     background-color: #d8e3eb;
-    background-image: url(https://media.giphy.com/media/gmuxUGlIbWo8g/giphy.gif)
-  }
+}
   
   h2 {
-    font-size: 200px;
+    font-size: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   
-  img {
-    height: 200px
-  }
   
   .modal {
     display: none;
@@ -30,7 +26,7 @@ body {
   /* Modal Content/Box */
   .modal-content {
     background-color: #ffc8bf;
-    background-image: url(https://media.giphy.com/media/4NetxFvQ2mq8Zy9VWn/giphy.gif);
+    background-image: red;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
     border: 1px solid #888;
