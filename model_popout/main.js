@@ -1,8 +1,11 @@
-$(".open").on("click", function() {
-    $(".popup-overlay, .popup-content").addClass("active");
-  });
-  
-  //removes the "active" class to .popup and .popup-content when the "Close" button is clicked 
-  $(".close, .popup-overlay").on("click", function() {
-    $(".popup-overlay, .popup-content").removeClass("active");
-  });
+$(function() {
+    $(".button").click(function() {
+        $("#myform #valueFromMyButton").text($(this).val().trim());
+        $("#myform input[type=text]").val('');
+        $("#myform").show(500);
+    });
+    $("#btnOK").click(function() {
+        $("#valueFromMyModal").val($("#myform input[type=text]").val().trim());
+        $("#myform").hide(400);
+    });
+});
