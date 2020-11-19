@@ -1,5 +1,5 @@
 body {
-    background-color: #d8e3eb;
+    background-color: pink;
 }
   
   h2 {
@@ -16,7 +16,8 @@ body {
     overflow: auto;
     font-family:"=Cavet";
     font-size: 22px;
-    background-color: rgb(189, 124, 124);  
+    background-color: blue;
+    background-color: aqua;  
 }
   
   .modal-content {
