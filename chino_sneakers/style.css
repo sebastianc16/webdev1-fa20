@@ -1,3 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin-left: 1em;
+}
+li {
+    margin-left: 1em;
+    list-style-type: ' \25EC'
+}
+
 .hero {
     background:whitesmoke;
     height: 20vh;
@@ -8,16 +21,32 @@
     align-items: center;
 }
 .content {
-    text-align: center;
     min-height: 40vh;
     background: blanchedalmond;
     color: red;
- }
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
 body {
     background-color: lightblue;
+    font-family: 'Roboto Condensed', sans-serif;
 }
-img {
+.shoe {
+    margin: 10px;
+}
+
+.shoe img {
+    min-width: 160px;
+    width: 30vmin;
+    height: 30vmin;
+    object-fit: cover;
+}
+
+/* img {
     max-width: 160px;
-    margin: 0.5%;
+    margin: 0.8%;
     text-align: center;
-}
+    
+} */
