@@ -8,7 +8,6 @@ ul {
 }
 li {
     margin-left: 1em;
-    list-style-type: ' \25EC'
 }
 
 .hero {
@@ -26,9 +25,6 @@ h5{
 }
 h6 {
     font-size: 100%;
-}
-h {
-
 }
 .content {
     min-height: 80vh;
