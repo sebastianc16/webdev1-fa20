@@ -19,6 +19,16 @@ li {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    font-size: 100%;
+}
+h5{
+    font-size: 100%;
+}
+h6 {
+    font-size: 100%;
+}
+h {
+
 }
 .content {
     min-height: 80vh;
