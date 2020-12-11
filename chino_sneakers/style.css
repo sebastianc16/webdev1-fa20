@@ -56,3 +56,39 @@ body {
     text-align: center;
     
 } */
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto;
+    font-family:"=Cavet";
+    font-size: 22px;
+    background-color: blue;
+    background-color: aqua;  
+}
+    
+.modal-content {
+    background-color: gray;
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; 
+}
+    
+.close {
+    color: red;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+}
+    
+.close:hover,
+.close:focus {
+    color: green;
+    text-decoration: none;
+    cursor: pointer;
+}
