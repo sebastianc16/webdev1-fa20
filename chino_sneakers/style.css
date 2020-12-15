@@ -11,7 +11,7 @@ li {
 }
 
 .hero {
-    background:whitesmoke;
+    background: lightblue;
     height: 50vh;
     color:black;
     display: flex;
@@ -28,8 +28,8 @@ h6 {
 }
 .content {
     min-height: 80vh;
-    background: grey;
-    color:black;
+    background: lightpink;
+    color: black;
     display: flex;
     flex-wrap: wrap;
 }
@@ -68,7 +68,7 @@ body {
     font-family:"=Cavet";
     font-size: 22px;
     background-color: blue;
-    background-color: aqua;  
+    background-color:grey;  
 }
     
 .modal-content {
