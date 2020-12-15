@@ -15,13 +15,13 @@ li {
 }
 .content {
     min-height: 80vh;
-    background: grey;
+    background:pink;
     color:black;
     display: flex;
     flex-wrap: wrap;
 }
 body {
-    background-color: grey;
+    color: grey;
     font-family: 'Roboto Condensed', sans-serif;
 }
 .shoe {
