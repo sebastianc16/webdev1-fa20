@@ -1,5 +1,5 @@
 h1{
-    color: blue;
+    color: black;
     text-align: center;
 }
 * {
@@ -23,6 +23,7 @@ li {
 body {
     color: grey;
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: grey;
 }
 .shoe {
     margin: 10px;
