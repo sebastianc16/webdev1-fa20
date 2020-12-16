@@ -35,3 +35,7 @@ body {
     height: 30vmin;
     object-fit: cover;
 }
+h2{
+    text-align: center;
+    color: black;
+}
