@@ -66,12 +66,6 @@ body {
     object-fit: cover;
 }
 
-/* img {
-    max-width: 160px;
-    margin: 0.8%;
-    text-align: center;
-    
-} */
 .modal {
     display: none;
     position: fixed; 
