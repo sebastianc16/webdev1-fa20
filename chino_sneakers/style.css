@@ -3,6 +3,22 @@
     padding: 0;
 }
 
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 220px;
+    height: 220px;
+    object-fit: cover; 
+}
+.logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 220px;
+    height: 220px;
+}
+
 ul {
     margin-left: 1em;
 }
@@ -68,11 +84,11 @@ body {
     font-family:"=Cavet";
     font-size: 22px;
     background-color: blue;
-    background-color:grey;  
+    background-color: lightcoral;  
 }
     
 .modal-content {
-    background-color: gray;
+    background-color:royalblue;
     margin: 15% auto; 
     padding: 20px;
     border: 1px solid #888;
