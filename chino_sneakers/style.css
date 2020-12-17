@@ -7,16 +7,9 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 220px;
-    height: 220px;
+    width: 120px;
+    height: 120px;
     object-fit: cover; 
-}
-.logo {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 220px;
-    height: 220px;
 }
 
 ul {
